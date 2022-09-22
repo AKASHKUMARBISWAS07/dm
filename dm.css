@@ -1,0 +1,36 @@
+.crd{
+display: flex;
+flex-direction: column;
+}
+
+.crd1{
+width: 200px;
+height: 90px;
+background-color: rgb(216, 107, 44);
+margin: 5px;
+}
+.crd2{
+    width: 200px;
+    height: 90px;
+    background-color: rgb(80, 221, 29);
+    margin: 5px;
+
+}
+.crd3{
+     width: 200px;
+     height: 90px;
+     background-color: rgb(159, 46, 72);
+     margin: 5px;
+}
+button{
+    color:rgb(39, 26, 121);
+    background-color: rgb(151, 191, 222);
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 30px rgb(12, 56, 118);
+}
+
+html{
+    background-color: rgba(164, 197, 165, 0.636);
+}
